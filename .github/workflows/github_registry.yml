@@ -1,9 +1,9 @@
 # CI to GHCR 
-name: CI to GHCR Test
+name: CI to GHCR
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
 
